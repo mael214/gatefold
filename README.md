@@ -4,6 +4,7 @@
 
 Display the currently playing Spotify track. Made for the Raspberry Pi.
 
+
 ## Features
 
 - ✅ Displays currently playing track
